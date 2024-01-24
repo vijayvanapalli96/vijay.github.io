@@ -17,6 +17,8 @@ Bing's description of the image above:
 
 
 Image2: 
+
+
 <img width="200" alt="image" src="https://github.com/vijayvanapalli96/vijay.github.io/assets/46009628/8c71158b-ef2b-493a-939e-356c95a403bd">
 
 Bing's description of the image above:
