@@ -1,10 +1,20 @@
-## Trying out Bing character recognition capabilities as opposed to other APIs
+## Trying out Bing character recognition capabilities against other OCR Engines
 
-Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title.
+Exploring and trying to understand how GPT handles image input analysis, especially concerning Optical Character Recognition (OCR). Nowadays we almost take this for granted but usually, this task is split into Text Detection and Text Recognition. 
 
-If the file does not start with a header, then the post title will be derived from the filename.
+In this blog, we will briefly explore how OCR Engines like JaidedAI's EasyOCR, PaddleOCR, and Tesseract fare against the results obtained from analyzing images in GPT4 through a prompt. 
 
-This is a sample blog post. You can talk about all sorts of fun things here.
+The images are as follows: 
+
+Image1:
+![img2](https://github.com/vijayvanapalli96/vijay.github.io/assets/46009628/a76bdd30-4536-4f17-ba59-d3881d7b2ffd)
+Image2: 
+![img1](https://github.com/vijayvanapalli96/vijay.github.io/assets/46009628/8c71158b-ef2b-493a-939e-356c95a403bd)
+
+Bing's description of the images are as  follows :
+<img width="575" alt="image" src="https://github.com/vijayvanapalli96/vijay.github.io/assets/46009628/055c48a2-9682-440e-821c-7fb5ed27af44">
+<img width="573" alt="bingtext1" src="https://github.com/vijayvanapalli96/vijay.github.io/assets/46009628/32ceb3c4-5e37-4a14-83d0-d2ede0c06257">
+
 
 ---
 
