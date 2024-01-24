@@ -26,10 +26,13 @@ Bing's description of the image above:
 
 <img width="569" alt="bingtext2" src="https://github.com/vijayvanapalli96/vijay.github.io/assets/46009628/1e866bee-d56a-4d35-a029-6ede7d7f94a3">
 
+From the above descriptions, we see that not only is GPT-4 Vision apt at describing the content of the text but also quite good at describing the state the box is in. 
+
+
 
 ---
 
-### This is a header
+### Testing other OCR Engines
 
 ![test](https://github.com/vijayvanapalli96/vijay.github.io/assets/46009628/f2ed167e-4c86-4a3a-98df-2a3c1085cc61)
 
