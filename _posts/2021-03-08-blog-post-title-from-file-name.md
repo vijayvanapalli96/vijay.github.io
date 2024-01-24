@@ -34,7 +34,21 @@ From the above descriptions, we see that not only is GPT-4 Vision apt at describ
 
 ### Testing other OCR Engines
 
-![test](https://github.com/vijayvanapalli96/vijay.github.io/assets/46009628/f2ed167e-4c86-4a3a-98df-2a3c1085cc61)
+EasyOCR follows the two-step process of using CRAFT (Character-Region Awareness For Text detection) for Text detection and Text Recognition to transcribe text. The framework of EasyOCR as shown in its repository is shown below 
+
+<img width="200" alt="image" src="https://github.com/vijayvanapalli96/vijay.github.io/assets/46009628/14893598-135c-4c76-abb6-172da1e65df3">
+
+The outputs obtained from the EasyOCR are as follows 
+
+Image1:
+
+<img width="200" alt="image" src="https://github.com/vijayvanapalli96/vijay.github.io/assets/46009628/8c71158b-ef2b-493a-939e-356c95a403bd">
+
+Image2:
+
+<img width="200" alt="image" src="https://github.com/vijayvanapalli96/vijay.github.io/assets/46009628/8c71158b-ef2b-493a-939e-356c95a403bd">
+
+
 
 #### Some T-SQL Code
 
