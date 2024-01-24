@@ -41,12 +41,26 @@ EasyOCR follows the two-step process of using CRAFT (Character-Region Awareness 
 The outputs obtained from the EasyOCR are as follows 
 
 Image1:
+![usbceasyocr](https://github.com/vijayvanapalli96/vijay.github.io/assets/46009628/861a6ca5-b495-4f5a-93bc-145041b0648a)
 
-<img width="200" alt="image" src="https://github.com/vijayvanapalli96/vijay.github.io/assets/46009628/8c71158b-ef2b-493a-939e-356c95a403bd">
+<img width="200" alt="image" src="https://github.com/vijayvanapalli96/vijay.github.io/assets/46009628/861a6ca5-b495-4f5a-93bc-145041b0648a">
+
+Image1-Confidence:
+
+<img width="200" alt="EasyOCRUSB" src="https://github.com/vijayvanapalli96/vijay.github.io/assets/46009628/2ff471f7-678b-4076-a2af-d960f9fde7d3">
+
+Analysis:
+
 
 Image2:
 
-<img width="200" alt="image" src="https://github.com/vijayvanapalli96/vijay.github.io/assets/46009628/8c71158b-ef2b-493a-939e-356c95a403bd">
+<img width="200" alt="image" src="https://github.com/vijayvanapalli96/vijay.github.io/assets/46009628/57857e06-c70c-4198-93ff-54d5883fc648">
+
+Image2-Confidence:
+
+<img width="200" alt="Screenshot 2024-01-23 142352" src="https://github.com/vijayvanapalli96/vijay.github.io/assets/46009628/26ebb70f-7567-46ea-9489-3c39950002c1">
+
+Analysis:
 
 
 
