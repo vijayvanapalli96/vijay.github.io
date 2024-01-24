@@ -7,9 +7,9 @@ In this blog, we will briefly explore how OCR Engines like JaidedAI's EasyOCR, P
 The images are as follows: 
 
 Image1:
-![img2](https://github.com/vijayvanapalli96/vijay.github.io/assets/46009628/a76bdd30-4536-4f17-ba59-d3881d7b2ffd)
+<img width="575" alt="image" src="https://github.com/vijayvanapalli96/vijay.github.io/assets/46009628/a76bdd30-4536-4f17-ba59-d3881d7b2ffd">
 Image2: 
-![img1](https://github.com/vijayvanapalli96/vijay.github.io/assets/46009628/8c71158b-ef2b-493a-939e-356c95a403bd)
+<img width="575" alt="image" src="https://github.com/vijayvanapalli96/vijay.github.io/assets/46009628/8c71158b-ef2b-493a-939e-356c95a403bd">
 
 Bing's description of the images are as  follows :
 <img width="575" alt="image" src="https://github.com/vijayvanapalli96/vijay.github.io/assets/46009628/055c48a2-9682-440e-821c-7fb5ed27af44">
