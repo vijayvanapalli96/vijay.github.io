@@ -127,9 +127,9 @@ print(generated_text)
 <img width="200" alt="handwritingoutput" src="https://github.com/vijayvanapalli96/vijay.github.io/assets/46009628/0a9b3ab6-8f2c-499e-b42b-a1dd44ac7e13">
 
 
-Here we observe a similar but more coherent result, since the the OCR engine may be mapping the handwriting to whole words rather than going letter by letter
+We see a more coherent result, since the the OCR engine may be mapping the handwriting to whole words rather than going letter by letter, the last name is incorrect and it fails to distinguish two words separately.
 
-However from our observation we can conclude that when it comes to Hand Written Character Recognition GPT4-Vision is superior
+From our observations, we can conclude that when it comes to Hand Written Character Recognition GPT4-Vision is superior and more flexible. 
 
 We do need to look at the resources expended to obtain these results. 
 
